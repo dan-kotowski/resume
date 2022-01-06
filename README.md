@@ -5,7 +5,7 @@
 - Senior Manager of Network Information Systems Cyber Threat Intelligence team
 - Spearhead projects to automate IOC ingestion, curation, tasking for historic discovery and detection, and maturity
 - Spearhead project to align external threats with internal controls on a per-territory basis with deliverables direct to territory CISOs
-- Numerous ad-hod automations in support of team mission
+- Numerous ad-hoc automations in support of team mission
 - Respond to RFIs from Partners, CISOs, and other managers about recent threats
 - Ensure timeliness, accuracy, quality, and consistency in reporting
 - Ensure cross-team collaboration with Threat Response, especially during major incidents
