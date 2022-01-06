@@ -1,7 +1,7 @@
 # Dan Kotowski (dan dot kotowski at a9development dot com)
 
 ## Experience
-### Cyber Threat Analyst, Senior Manager, PricewaterhouseCoopers, Nov 2018 (current)
+### Cyber Threat Analyst, Senior Manager, PricewaterhouseCoopers, Nov 2017 (current)
 - Senior Manager of Network Information Systems Cyber Threat Intelligence team
 - Spearhead projects to automate IOC ingestion, curation, tasking for historic discovery and detection, and maturity
 - Spearhead project to align external threats with internal controls on a per-territory basis with deliverables direct to territory CISOs
@@ -9,7 +9,7 @@
 - Respond to RFIs from Partners, CISOs, and other managers about recent threats
 - Ensure timeliness, accuracy, quality, and consistency in reporting
 - Ensure cross-team collaboration with Threat Response, especially during major incidents
-### Senior Cyber Intel Analyst, DC3/DCISE, May 2015 to Oct 2018
+### Senior Cyber Intel Analyst, DC3/DCISE, May 2015 to Oct 2017
 - Technical advisor to DC3/DCISE, Middle East cell
 - Advance Persistent Threat (APT) and attack phase analysis
 - Analysis report creation and review
